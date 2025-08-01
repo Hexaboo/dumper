@@ -2,4 +2,4 @@
 
 - Dumps created using https://github.com/DumprX/DumprX
 
-- Dumps posted on https://t.me/sarthakdumps
+- Dumps posted on https://t.me/hexaboo_logs
